@@ -1,0 +1,66 @@
+[
+  {
+  "fuel":"Petrol",
+  "transm":"Manual",
+  "model":"Volkswagen Vento2010-2013PetrolTrendline",
+  "imgPath" : "http://www.gaadicdn.com/usedcar_image/original/usedcar_20171020_171030_1383575_1509093858.jpg",
+  "kms":"75,070",
+  "price":"$6000"
+},
+{
+"fuel":"Diesel",
+"transm":"Automatic",
+"model":"ToyotaFortuner4x2AT",
+"imgPath" : "https://img.philkotse.com/crop/450x338/2017/07/23/146b9fd66-2c7d.jpg",
+"kms":"24,016",
+"price":"$15000"
+},
+{
+"fuel": "Petrol",
+"transm": "Manual",
+"model": "Maruti Zen Estilo LXI",
+"imgPath" : "https://gaadicdn.com/usedcar_image/320x240/usedcar_whatsappimage2017_10_22at4_1382279_1508740239.jpeg",
+"kms": "18,996",
+"price": "$4000"
+},
+{
+"fuel": "Diesel",
+"transm": "Manual",
+"model": "Toyota Innova 2012-2013 2.5 EV (Diesel) MS 7 Seater BS IV",
+"imgPath" : "",
+"kms": "55,683",
+"price": "$15000"
+},
+{
+"fuel": "Petrol",
+"transm": "Manual",
+"model": "Maruti Alto K10 VXI",
+"imgPath" : "https://img.gaadicdn.com/images/car-images/large/Maruti/Maruti-Alto-K10/tango-orange.jpg",
+"kms": "42,255",
+"price": "$4000"
+},
+{
+"fuel": "Petrol",
+"transm": "Automatic",
+"model": "Honda Civic 2010-2013 1.8 V AT",
+"imgPath" : "http://www.gaadicdn.com/usedcar_image/original/VCC_540418_1_1466839382022_3_535169_24_1466839843.jpg",
+"kms": "67,039",
+"price": "Rs 4.7 Lac"
+},
+{
+"fuel": "Petrol",
+"transm": "Manual",
+"model": "Chevrolet Spark 1.0 LS",
+"imgPath" : "http://ipocars.com/imgs/a/h/y/d/a/chevrolet__spark_1_0_ls_2013_2_lgw.jpg",
+"kms": "59,963",
+"price": "$3000"
+},
+{
+"fuel": "Diesel",
+"transm": "Manual",
+"model": "Hyundai Verna 2010-2011 Transform SX VGT CRDi",
+"imgPath" : "http://www.gaadicdn.com/usedcar_image/original/VCC_756176_1_1505476677873_6_617246_24_1505477022.jpg",
+"kms": "53,981",
+"price": "$10000"
+}
+]

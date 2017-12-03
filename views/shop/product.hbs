@@ -1,0 +1,30 @@
+<!--
+
+{{#each products}}
+<div class="container">
+    <div class="row"><br><br><br><br><br>
+         <div class="col-xs-4 item-photo">
+            <img style="max-width:100%;" src="{{this.imgPath}}" />
+            <h3>{{ this.model }}</h3>
+        </div>
+            <h5 class="title-price"><small>Price</small></h5>
+            <h3 style="margin-top:0px;">US {{this.price}}</h3>
+    </div>
+ </div>
+{{/each}} -->
+
+{{# each products }}
+    <div class="container">
+        <div class="row"><br><br><br><br>
+            <div class="col-xs-3 item-photo">
+                <img style="width:250px;" src="{{this.imgPath}}">
+                <h3 style="align-items: center; padding: 0px"><b>{{this.model}}</b></h3>
+                <p style="padding: -40px;">
+                    <large>
+                        <b>Authors: {{this.price}}</b></h4>
+                    </large>
+                </p>
+            </div>
+        </div>
+    </div>
+{{/each}}
